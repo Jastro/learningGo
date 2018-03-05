@@ -26,14 +26,6 @@ go build nameexercise.go
 
 Anyway you have it on the folder "dist" of any exercise
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

@@ -17,9 +17,7 @@ go run nameexercise.go
 ```
 
 this show to you a message on console:
-
-<img src="https://i.imgur.com/6WC2Y7Z.png" alt="Example console" title="console" align="right" height="60" />
-
+<img src="https://i.imgur.com/6WC2Y7Z.png" alt="Example console" title="console" align="right" height="320" />
 
 If you want a binary, you can use this command:
 ```
